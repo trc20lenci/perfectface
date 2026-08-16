@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Perfect Face",
+    "slug": "perfect-face",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F0F0F",
+    "splash": {
+      "backgroundColor": "#0F0F0F"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.perfectface.app"
+    },
+    "android": {
+      "package": "com.perfectface.app"
+    }
+  }
+}
